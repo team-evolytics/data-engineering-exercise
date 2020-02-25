@@ -59,3 +59,5 @@ All steps executed on macOS Mojave
         load data infile '/add_your_path_here/exercise.tsv' into table evolytics.exercise fields terminated by '\t' ignore 1 rows;
 
 1. Execute original SQL to generate dataset. Begin refactoring exercise.
+
+test edit
