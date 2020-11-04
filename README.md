@@ -2,11 +2,9 @@
 
 ### Instructions
 
-1. Fork repository
+1. Download exercise.sql and exercise.tar.gz files
 1. Complete exercise
-1. Commit updated SQL
-1. Create pull request
-1. Email pull request to data-engineering-exercise@evolytics.com
+1. Email optimized exercise.sql file and question answers to data-engineering-exercise@evolytics.com
 
 ### Purpose
 
